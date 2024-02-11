@@ -8,4 +8,3 @@ git checkout branch1
 git checkout main
 git log
 git status
-git ls
