@@ -1,0 +1,11 @@
+git clone "repo link"
+git add --all
+git git commit -m "message"
+git push
+git pull
+git branck main
+git checkout branch1
+git checkout main
+git log
+git status
+git ls
